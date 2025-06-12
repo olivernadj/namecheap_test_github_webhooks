@@ -1,14 +1,1 @@
-asd
-foo
-lorem
-dolor
-sit
-kaka
-lamba
-hello
-bello
-context
-app
-push with template
-hardcode island
-prod........
+staging build .
