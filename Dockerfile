@@ -1,2 +1,2 @@
-# FROM nginx:latest
-FROM chentex/random-logger:latest
+FROM nginx:latest
+# FROM chentex/random-logger:latest
